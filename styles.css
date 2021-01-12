@@ -16,5 +16,15 @@ body {
     opacity: 1;
 }
 h3 {
-    color: rgba(4, 241, 24, 0.945);
+    color: rgba(9, 10, 9, 0.945);
+    font-family: 'Oswald', sans-serif;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+label {
+    font-family: 'Roboto Mono', monospace;
 }
